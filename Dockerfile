@@ -11,6 +11,7 @@ RUN apt-get update \
         sudo \
         locales \
         cups \
+        cups-backend-bjnp \
         avahi-daemon \
         libnss-mdns \
         dbus \
